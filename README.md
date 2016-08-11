@@ -14,7 +14,7 @@ A quick introduction to R, which includes setting up R/RStudio and references fo
 **Explore the examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.** 
   
 ## 1.0 Quick Start  
-1. Download and install [R](http://cran.r-project.org/mirrors.html) and [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/#download)
+1. Download and install [R](http://cran.r-project.org/mirrors.html) followed by [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/#download)
 2. Run RStudio and the following interface should be shown:
   
 <img src="https://github.com/rwenite/r-examples/blob/intro/quickstart.PNG"  width="600;"/>
