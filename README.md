@@ -17,7 +17,7 @@ A quick introduction to R, which includes setting up R/RStudio and references fo
 1. Download and install [R](http://cran.r-project.org/mirrors.html) and [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/#download)
 2. Run RStudio and the following interface should be shown:
   
-<img src="https://raw.githubusercontent.com/rwenite/r-examples/intro/quickstart.png"  width="600;"/>
+<img src="https://github.com/rwenite/r-examples/blob/intro/quickstart.PNG"  width="600;"/>
   
 ## 2.0 References
 * [Online learning resources](https://www.rstudio.com/online-learning/#R) suggested by RStudio
