@@ -9,7 +9,7 @@ A quick introduction to [R](https://www.r-project.org/), which includes setting 
 * [R](http://cran.r-project.org/mirrors.html)  
 * [R Studio Desktop](https://www.rstudio.com/products/rstudio/download2/#download)
   
-**Explore the R examples by switching branches (top-left) in this repository.** 
+**Explore the R examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.** 
   
 ## 1.0 Quick Start  
 1. Download and install [R](http://cran.r-project.org/mirrors.html) and [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/#download)
