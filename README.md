@@ -28,12 +28,13 @@ Get help documentation using `?`
 ?write.table
 ?vector
 ?data.frame
-?plot
 ?summary
+?plot
+?lm
 ```
 
 ### Read and Write
-Read/write table-formatted data using `?read.table`
+Read/write table-formatted data using `read.table`
 ```r
 dataset <- read.table("file.txt")
 write.table(dataset, "new_file.txt")
