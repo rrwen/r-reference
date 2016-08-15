@@ -3,16 +3,14 @@
   
 Richard Wen (rwenite@gmail.com)  
   
-A quick introduction to R, which includes setting up R/RStudio and references for learning R.  
-* [R](https://www.r-project.org/) is a free programming language that is widely used for statistics and data analysis
-* [R Studio](https://www.rstudio.com/products/rstudio/) provides a graphical interface and various tools to make writing R code easier
+A quick introduction to R, which includes installation, basic examples, and references to learning resources.  
+
+**Requirements**
+* [R](https://www.r-project.org/) [Download](http://cran.r-project.org/mirrors.html): a free programming language that is widely used for statistics and data analysis
+* [R Studio](https://www.rstudio.com/products/rstudio/)[Download](https://www.rstudio.com/products/rstudio/download2/#download): a graphical interface and various tools to make writing R code easier
   
-**Requirements**  
-* [R](http://cran.r-project.org/mirrors.html)  
-* [R Studio Desktop](https://www.rstudio.com/products/rstudio/download2/#download)
-  
-**Explore the examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.** 
-  
+**Explore the examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.**
+
 ## 1.0 Installation 
 1. Download and install [R](http://cran.r-project.org/mirrors.html) followed by [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/#download)
 2. Run RStudio and a similar interface should be shown:
