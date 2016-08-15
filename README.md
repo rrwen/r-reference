@@ -81,7 +81,9 @@ residuals(fit)
 confint(fit, level=0.95)  # confidence intervals
 fitted(fit)  # predicted
 anova(fit)  # anova table
-```
+```  
+  
+  
 See Mhairi McNeill's [Base R Cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/06/r-cheat-sheet.pdf) for some more basic examples.
   
 ## 3.0 References
