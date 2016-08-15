@@ -39,6 +39,13 @@ dataset <- read.table("file.txt")
 write.table(dataset, "new_file.txt")
 ```
 
+### Comments
+Comments for organization using `#`
+```r
+# This is a comment
+# It can be used on the same line as the actual code
+```
+
 ### Vectors
 Create a vector using `c()`
 ```r
@@ -48,19 +55,23 @@ eyeColor[1]  # select the 1st eyeColor
 height[c(1,3)]  # select 1st and 3rd height
 ```
 
-### Help
-Creating a dataframe (table-like structure) using `data.frame()`
+### Dataframes
+Create a dataframe (table-like structure) using `data.frame()`
 ```r
 dataset <- data.frame(height=c(4.8, 4.5, 5.75),
                       eyeColor=c("blue", "brown", "green"))
 dataset[1, ]  # select 1st row
 dataset[, 2]  # select 2nd column
 ```
+
+### Summaries and Plots
 Obtain a summary or plot using `summary()` or `plot()`
 ```r
 summary(dataset)  # mean, median, mode, stdev, etc
 plot(dataset)  # height vs eyeColor
 ```
+
+### Linear Models
 Perform linear regression using `lm` (See more at [Quick-R](http://www.statmethods.net/stats/regression.html))
 ```r
 fit <- lm(heights ~ eyeColor, data=dataset)
