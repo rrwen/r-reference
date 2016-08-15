@@ -20,7 +20,9 @@ A quick introduction to R, which includes setting up R/RStudio and references fo
 <img src="https://github.com/rwenite/r-examples/blob/intro/quickstart.PNG"  width="600;"/>
   
 ## 2.0 Basic Examples
-Getting help documentation using `?`
+
+### Help
+Get help documentation using `?`
 ```r
 ?read.table
 ?write.table
@@ -29,18 +31,24 @@ Getting help documentation using `?`
 ?plot
 ?summary
 ```
+
+### Read and Write
 Read/write table-formatted data using `?read.table`
 ```r
 dataset <- read.table("file.txt")
 write.table(dataset, "new_file.txt")
 ```
-Creating a vector using `c()`, comments follow `#`
+
+### Vectors
+Create a vector using `c()`
 ```r
 height <- c(4.8, 4.5, 5.75)
 eyeColor <- c("blue", "brown", "green")
 eyeColor[1]  # select the 1st eyeColor
 height[c(1,3)]  # select 1st and 3rd height
 ```
+
+### Help
 Creating a dataframe (table-like structure) using `data.frame()`
 ```r
 dataset <- data.frame(height=c(4.8, 4.5, 5.75),
