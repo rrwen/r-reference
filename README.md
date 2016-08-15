@@ -6,8 +6,8 @@ Richard Wen (rwenite@gmail.com)
 A quick introduction to R, which includes installation, basic examples, and references to learning resources.  
 
 **Requirements**
-* [R](https://www.r-project.org/) [Download](http://cran.r-project.org/mirrors.html): a free programming language that is widely used for statistics and data analysis
-* [R Studio](https://www.rstudio.com/products/rstudio/)[Download](https://www.rstudio.com/products/rstudio/download2/#download): a graphical interface and various tools to make writing R code easier
+* [R](https://www.r-project.org/) [[Download](http://cran.r-project.org/mirrors.html)]: a free programming language that is widely used for statistics and data analysis
+* [R Studio](https://www.rstudio.com/products/rstudio/) [[Download](https://www.rstudio.com/products/rstudio/download2/#download)]: a graphical interface and various tools to make writing R code easier
   
 **Explore the examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.**
 
