@@ -70,17 +70,6 @@ summary(dataset)  # mean, median, mode, stdev, etc
 plot(dataset)  # height vs eyeColor
 ```
 
-### Linear Models
-Perform linear regression using `lm` (See more at [Quick-R](http://www.statmethods.net/stats/regression.html))
-```r
-fit <- lm(heights ~ eyeColor, data=dataset)
-coefficients(fit)
-residuals(fit)
-confint(fit, level=0.95)  # confidence intervals
-fitted(fit)  # predicted
-anova(fit)  # anova table
-```
-
 ## 3.0 References
 * [Base R Cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/06/r-cheat-sheet.pdf) by Mhairi McNeill for more basic R code
 * [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/) for quick references when working with R
