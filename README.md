@@ -10,14 +10,8 @@ A quick introduction to R, which includes installation, basic examples, and refe
 * [R Studio](https://www.rstudio.com/products/rstudio/) [[Download](https://www.rstudio.com/products/rstudio/download2/#download)]: a graphical interface and various tools to make writing R code easier
   
 **Explore the examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.**
-
-## 1.0 Installation 
-1. Download and install [R](http://cran.r-project.org/mirrors.html) followed by [RStudio Desktop](https://www.rstudio.com/products/rstudio/download2/#download)
-2. Run RStudio and a similar interface should be shown:
   
-<img src="https://github.com/rwenite/r-examples/blob/intro/quickstart.PNG"  width="600;"/>
-  
-## 2.0 Basic Examples
+## 1.0 Basic Examples
 
 ### Help
 Get help documentation using `?`
@@ -70,7 +64,7 @@ summary(dataset)  # mean, median, mode, stdev, etc
 plot(dataset)  # height vs eyeColor
 ```
 
-## 3.0 References
+## 2.0 References
 * [Base R Cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/06/r-cheat-sheet.pdf) by Mhairi McNeill for more basic R code
 * [RStudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/) for quick references when working with R
 * [Online learning resources](https://www.rstudio.com/online-learning/#R) suggested by RStudio
