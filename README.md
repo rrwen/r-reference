@@ -43,11 +43,34 @@ dataset <- read.table("file.txt")
 write.table(dataset, "new_file.txt")
 ```
 
-### Comments
-Comments for organization using `#`
+### Comments and Output
+Commenting using `#` and console output using `print()`
 ```r
 # This is a comment, it does not get executed
-1 + 1  # It can be used on the same line as the actual code
+print("Some text") # It can be used on the same line as the actual code
+```
+
+### Math
+Simple arithmetic operations:
+* addition `+`
+* subtraction `-`
+* multiplication `*`
+* division `/`
+* exponent `^`
+```r
+1 + 1  # add
+2 - 1  # sub
+2 * 2  # multiply
+10 / 2  # div
+4^2  # exp
+```
+
+### Variables
+Variable assignment using `<-`
+```r
+x <- 1
+x + 1  # output 2
+x / 2  # output 0.5
 ```
 
 ### Vectors
@@ -57,6 +80,7 @@ height <- c(4.8, 4.5, 5.75)
 eyeColor <- c("blue", "brown", "green")
 eyeColor[1]  # select the 1st eyeColor
 height[c(1,3)]  # select 1st and 3rd height
+height + 0.1  # add 0.1 to all heights
 ```
 
 ### Dataframes
