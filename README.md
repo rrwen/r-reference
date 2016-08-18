@@ -46,8 +46,8 @@ write.table(dataset, "new_file.txt")
 ### Comments
 Comments for organization using `#`
 ```r
-# This is a comment
-# It can be used on the same line as the actual code
+# This is a comment, it does not get executed
+1 + 1  # It can be used on the same line as the actual code
 ```
 
 ### Vectors
