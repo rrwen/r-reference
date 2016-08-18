@@ -14,7 +14,7 @@ A quick introduction to R, which includes installation, basic examples, and refe
 ## 1.0 Quick Start
 1. Install [R](http://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download2/#download)
 2. Open RStudio and a similar interface should be shown:
-<img src="https://github.com/rwenite/r-examples/blob/intro/quickstart.PNG"  width="600;"/>
+<img src="https://github.com/rwenite/r-examples/blob/intro/ui.PNG"  width="800;"/>
 
 ## 2.0 Basic Examples
 
