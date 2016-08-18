@@ -22,6 +22,7 @@ A quick introduction to R, which includes installation, basic examples, and refe
 <img src="https://github.com/rwenite/r-examples/blob/intro/ui.PNG"  width="800;"/>
 
 ## 2.0 Basic Examples
+The following can be run in either the console or the script editor.
 
 ### Help
 Get help documentation using `?`
