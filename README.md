@@ -89,6 +89,7 @@ dataset <- data.frame(height=c(4.8, 4.5, 5.75),
                       eyeColor=c("blue", "brown", "green"))
 dataset[1, ]  # select 1st row
 dataset[, 2]  # select 2nd column
+dataset$eyeColor  # select 2nd column by name
 ```
 
 ### Summaries and Plots
