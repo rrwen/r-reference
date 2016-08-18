@@ -13,7 +13,12 @@ A quick introduction to R, which includes installation, basic examples, and refe
   
 ## 1.0 Quick Start
 1. Install [R](http://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download2/#download)
-2. Open RStudio and a similar interface should be shown:
+2. Open RStudio and begin coding in R:  
+  * **Script Editor**: Run, edit, and save R code using script files (.R)  
+  * **Console**: Execute and output code  
+  * **Variables/Objects**: Inspect variables and objects in the global environment  
+  * **Help/Plots/Misc**: Visualization, help documentation, package, and file interfaces 
+  
 <img src="https://github.com/rwenite/r-examples/blob/intro/ui.PNG"  width="800;"/>
 
 ## 2.0 Basic Examples
