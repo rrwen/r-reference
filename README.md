@@ -36,13 +36,6 @@ Get help documentation using `?`
 ?lm
 ```
 
-### Read and Write
-Read/write table-formatted data using `read.table`
-```r
-dataset <- read.table("file.txt")
-write.table(dataset, "new_file.txt")
-```
-
 ### Comments and Output
 Commenting using `#` and console output using `print()`
 ```r
@@ -97,6 +90,13 @@ Obtain a summary or plot using `summary()` or `plot()`
 ```r
 summary(dataset)  # mean, median, mode, stdev, etc
 plot(dataset)  # height vs eyeColor
+```
+
+### Read and Write
+Read/write table-formatted data using `read.table`
+```r
+dataset <- read.table("file.txt")
+write.table(dataset, "new_file.txt")
 ```
 
 ## 3.0 References
