@@ -69,8 +69,7 @@ Simple arithmetic operations:
 Variable assignment using `<-`
 ```r
 x <- 1
-x + 1  # output 2
-x / 2  # output 0.5
+y <- x + 1  # output 2
 ```
 
 ### Vectors
