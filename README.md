@@ -12,8 +12,8 @@ A quick introduction to R, which includes installation, basic examples, and refe
 **Explore the examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.**
 
 ## Contents
-[1.0 Quick Start](https://github.com/rwenite/r-examples#10-quick-start)  
-[2.0 Basic Examples](https://github.com/rwenite/r-examples#20-basic-examples)  
+**[1.0 Quick Start](https://github.com/rwenite/r-examples#10-quick-start)**  
+**[2.0 Basic Examples](https://github.com/rwenite/r-examples#20-basic-examples)**  
 * [Help](https://github.com/rwenite/r-examples#help)  
 * [Comments and Output](https://github.com/rwenite/r-examples#comments-and-output)  
 * [Math](https://github.com/rwenite/r-examples#math)  
@@ -23,7 +23,8 @@ A quick introduction to R, which includes installation, basic examples, and refe
 * [Summaries and Plots](https://github.com/rwenite/r-examples#summaries-and-plots)  
 * [Read and Write](https://github.com/rwenite/r-examples#read-and-write)  
 * [Packages](https://github.com/rwenite/r-examples#packages)  
-[3.0 References](https://github.com/rwenite/r-examples#30-references)  
+  
+**[3.0 References](https://github.com/rwenite/r-examples#30-references)**  
   
 ## 1.0 Quick Start
 1. Install [R](http://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download2/#download)
