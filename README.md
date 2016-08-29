@@ -10,6 +10,20 @@ A quick introduction to R, which includes installation, basic examples, and refe
 * [RStudio](https://www.rstudio.com/products/rstudio/) [[Download](https://www.rstudio.com/products/rstudio/download2/#download)]: a graphical interface and various tools to make writing R code easier
   
 **Explore the examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.**
+
+## Contents
+[1.0 Quick Start](https://github.com/rwenite/r-examples#10-quick-start)  
+[2.0 Basic Examples](https://github.com/rwenite/r-examples#20-basic-examples)  
+* [Help](https://github.com/rwenite/r-examples#help)  
+* [Comments and Output](https://github.com/rwenite/r-examples#comments-and-output)  
+* [Math](https://github.com/rwenite/r-examples#math)  
+* [Variables](https://github.com/rwenite/r-examples#variables)  
+* [Vectors](https://github.com/rwenite/r-examples#vectors)  
+* [Dataframes](https://github.com/rwenite/r-examples#dataframes)  
+* [Summaries and Plots](https://github.com/rwenite/r-examples#summaries-and-plots)  
+* [Read and Write](https://github.com/rwenite/r-examples#read-and-write)  
+* [Packages](https://github.com/rwenite/r-examples#packages)  
+[3.0 References](https://github.com/rwenite/r-examples#30-references)  
   
 ## 1.0 Quick Start
 1. Install [R](http://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download2/#download)
@@ -97,6 +111,13 @@ Read/write table-formatted data using `read.table`
 ```r
 dataset <- read.table("file.txt")
 write.table(dataset, "new_file.txt")
+```
+
+### Packages
+Package management using `install.packages()` and `remove.packages()`
+```r
+install.packages("ggplot2")
+remove.packages("ggplot2")
 ```
 
 ## 3.0 References
