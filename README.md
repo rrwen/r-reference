@@ -1,7 +1,7 @@
 # R Introduction
   
   
-Richard Wen (rwenite@gmail.com)  
+Richard Wen (rich.rwen@gmail.com)  
   
 A quick introduction to R, which includes installation, basic examples, and references to learning resources.  
 
@@ -12,19 +12,19 @@ A quick introduction to R, which includes installation, basic examples, and refe
 **Explore the examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.**
 
 ## Contents
-**[1.0 Quick Start](https://github.com/rwenite/r-examples#10-quick-start)**  
-**[2.0 Basic Examples](https://github.com/rwenite/r-examples#20-basic-examples)**  
-* [Help](https://github.com/rwenite/r-examples#help)  
-* [Comments and Output](https://github.com/rwenite/r-examples#comments-and-output)  
-* [Math](https://github.com/rwenite/r-examples#math)  
-* [Variables](https://github.com/rwenite/r-examples#variables)  
-* [Vectors](https://github.com/rwenite/r-examples#vectors)  
-* [Dataframes](https://github.com/rwenite/r-examples#dataframes)  
-* [Summaries and Plots](https://github.com/rwenite/r-examples#summaries-and-plots)  
-* [Read and Write](https://github.com/rwenite/r-examples#read-and-write)  
-* [Packages](https://github.com/rwenite/r-examples#packages)  
+**[1.0 Quick Start](https://github.com/rrwen/r-examples#10-quick-start)**  
+**[2.0 Basic Examples](https://github.com/rrwen/r-examples#20-basic-examples)**  
+* [Help](https://github.com/rrwen/r-examples#help)  
+* [Comments and Output](https://github.com/rrwen/r-examples#comments-and-output)  
+* [Math](https://github.com/rrwen/r-examples#math)  
+* [Variables](https://github.com/rrwen/r-examples#variables)  
+* [Vectors](https://github.com/rrwen/r-examples#vectors)  
+* [Dataframes](https://github.com/rrwen/r-examples#dataframes)  
+* [Summaries and Plots](https://github.com/rrwen/r-examples#summaries-and-plots)  
+* [Read and Write](https://github.com/rrwen/r-examples#read-and-write)  
+* [Packages](https://github.com/rrwen/r-examples#packages)  
   
-**[3.0 References](https://github.com/rwenite/r-examples#30-references)**  
+**[3.0 References](https://github.com/rrwen/r-examples#30-references)**  
   
 ## 1.0 Quick Start
 1. Install [R](http://cran.r-project.org/mirrors.html) and [RStudio](https://www.rstudio.com/products/rstudio/download2/#download)
@@ -34,7 +34,7 @@ A quick introduction to R, which includes installation, basic examples, and refe
   * **Variables/Objects**: Inspect variables and objects in the global environment  
   * **Help/Plots/Misc**: Visualization, help documentation, package, and file interfaces 
   
-<img src="https://github.com/rwenite/r-examples/blob/intro/ui.PNG"  width="800;"/>
+<img src="https://github.com/rrwen/r-examples/blob/intro/ui.PNG"  width="800;"/>
 
 ## 2.0 Basic Examples
 The following can be run in either the console or the script editor.
