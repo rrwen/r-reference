@@ -18,6 +18,7 @@ A quick introduction to R, which includes installation, basic examples, and refe
 * [Comments and Output](https://github.com/rrwen/r-examples#comments-and-output)  
 * [Math](https://github.com/rrwen/r-examples#math)  
 * [Variables](https://github.com/rrwen/r-examples#variables)  
+* [Loops](https://github.com/rrwen/r-examples#loops)  
 * [Vectors](https://github.com/rrwen/r-examples#vectors)  
 * [Dataframes](https://github.com/rrwen/r-examples#dataframes)  
 * [Summaries and Plots](https://github.com/rrwen/r-examples#summaries-and-plots)  
@@ -78,6 +79,15 @@ Variable assignment using `<-`
 ```r
 x <- 1
 y <- x + 1  # y == 2
+```
+
+### Loops
+Basic `for` loop
+```r
+x <- 0
+for (i in 1:5) {  # Add 1 to x, 5 times
+  x <- x + 1
+}
 ```
 
 ### Vectors
