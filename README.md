@@ -23,7 +23,7 @@ A quick introduction to R, which includes installation, basic examples, and refe
 * [Dataframes](https://github.com/rrwen/r-examples#dataframes)  
 * [Summaries and Plots](https://github.com/rrwen/r-examples#summaries-and-plots)  
 * [Read and Write](https://github.com/rrwen/r-examples#read-and-write)  
-* [Packages](https://github.com/rrwen/r-examples#packages)  
+* [Packages and Libraries](https://github.com/rrwen/r-examples#packages-and-libraries)  
   
 **[3.0 References](https://github.com/rrwen/r-examples#30-references)**  
   
@@ -124,11 +124,13 @@ dataset <- read.table("file.txt")
 write.table(dataset, "new_file.txt")
 ```
 
-### Packages
-Package management using `install.packages()` and `remove.packages()`
+### Packages and Libraries
+Package management using `install.packages()` and `remove.packages()`  
+Load package libraries using `library()`
 ```r
 install.packages("ggplot2")
 remove.packages("ggplot2")
+library(utils)
 ```
 
 ## 3.0 References
