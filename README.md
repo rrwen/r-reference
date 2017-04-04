@@ -1,7 +1,7 @@
 # R Introduction
   
   
-Richard Wen (rich.rwen@gmail.com)  
+Richard Wen (rrwen.dev@gmail.com)  
   
 A quick introduction to R, which includes installation, basic examples, and references to learning resources.  
 
